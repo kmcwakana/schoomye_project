@@ -1,3 +1,5 @@
+//コメントおお
+//aiueo
 #include <SchooMyUtilities.h>
 SchooMyUtilities scmUtils = SchooMyUtilities();
 
