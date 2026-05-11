@@ -1,3 +1,4 @@
+//ああa
 #define SENSOR_BIT 9
 #include <SchooMyUtilities.h>
 #include <OneWire.h>
